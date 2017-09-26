@@ -1,0 +1,1 @@
+# JUnit-test-example-intelliJ
